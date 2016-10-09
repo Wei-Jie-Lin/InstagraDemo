@@ -11,8 +11,8 @@
 		B87570A61DAA1537009B4373 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87570A51DAA1537009B4373 /* ViewController.swift */; };
 		B87570A91DAA1537009B4373 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B87570A71DAA1537009B4373 /* Main.storyboard */; };
 		B87570AC1DAA1537009B4373 /* InstagraDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B87570AA1DAA1537009B4373 /* InstagraDemo.xcdatamodeld */; };
-		B87570AE1DAA1537009B4373 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B87570AD1DAA1537009B4373 /* Assets.xcassets */; };
 		B87570B11DAA1537009B4373 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B87570AF1DAA1537009B4373 /* LaunchScreen.storyboard */; };
+		B87570B91DAA7722009B4373 /* Assets .xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B87570B81DAA7722009B4373 /* Assets .xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,9 +21,9 @@
 		B87570A51DAA1537009B4373 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B87570A81DAA1537009B4373 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B87570AB1DAA1537009B4373 /* InstagraDemo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = InstagraDemo.xcdatamodel; sourceTree = "<group>"; };
-		B87570AD1DAA1537009B4373 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B87570B01DAA1537009B4373 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B87570B21DAA1537009B4373 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B87570B81DAA7722009B4373 /* Assets .xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Assets .xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				B87570A31DAA1537009B4373 /* AppDelegate.swift */,
 				B87570A51DAA1537009B4373 /* ViewController.swift */,
 				B87570A71DAA1537009B4373 /* Main.storyboard */,
-				B87570AD1DAA1537009B4373 /* Assets.xcassets */,
+				B87570B81DAA7722009B4373 /* Assets .xcassets */,
 				B87570AF1DAA1537009B4373 /* LaunchScreen.storyboard */,
 				B87570B21DAA1537009B4373 /* Info.plist */,
 				B87570AA1DAA1537009B4373 /* InstagraDemo.xcdatamodeld */,
@@ -128,8 +128,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B87570B11DAA1537009B4373 /* LaunchScreen.storyboard in Resources */,
-				B87570AE1DAA1537009B4373 /* Assets.xcassets in Resources */,
 				B87570A91DAA1537009B4373 /* Main.storyboard in Resources */,
+				B87570B91DAA7722009B4373 /* Assets .xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +306,7 @@
 				B87570B71DAA1537009B4373 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
